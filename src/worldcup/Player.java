@@ -6,13 +6,16 @@ package worldcup;
 
 /**
  * @author AdministradorCIFO
- * This the class to define a player
+ *         This the class to define a player
  */
-public class Player extends Person{
-     String position;
-    
-    
-    public void passBall(){
-            System.out.println("plassing");
+public class Player extends Person {
+        String position;
+
+        public void passBall() {
+                System.out.println("plassing");
+        }
+        /* Una nova funció super interesant */
+        public void kickBall() {
+                System.out.println("kicking the ball soo strong");
         }
 }
