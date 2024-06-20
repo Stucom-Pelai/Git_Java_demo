@@ -7,6 +7,7 @@ public class Referee {
 
     /** bout the referee's whistle */
     String whisper;
+    /** especifica la tolerancia de l'arbitre */
     double tolerance;
 
     /**
