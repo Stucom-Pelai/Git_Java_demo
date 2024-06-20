@@ -18,5 +18,9 @@ public class Team {
     public void play(){
             System.out.println("playing");
         }
+
+    public void attack(){
+        System.out.println("attacking");
+    }
     
 }
