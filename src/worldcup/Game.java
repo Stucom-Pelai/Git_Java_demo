@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /**
  * @author AdministradorCIFO
  */
-public class Match {
+public class Game {
 
     //TODO to uncomment when class Field is created
     //Field field;
